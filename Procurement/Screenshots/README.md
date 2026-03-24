@@ -1,1 +1,1 @@
-
+All screenshots shown above use dummy data created by me, modeled based on the structure and format of the original data. No real or sensitive data has been used. These examples are included solely for demonstration and illustration purposes.
